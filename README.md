@@ -1,3 +1,3 @@
 # GCI_2018_QT
 
-Beginnger QT Project for GCI 2018
+Beginner QT Project for GCI 2018
